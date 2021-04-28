@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuthLD
 - 🎓 Education:
   - Bachlors of Arts in Anthropology from Seton Hall University May 2016 
-  - Masters of Arts in Anthropoology from New York University August 2019 [MA Thesis abstract](https://as.nyu.edu/content/dam/nyu-as/anthropology/documents/Dorton%20abstract.pdf)
+  - Masters of Arts in Anthropoology from New York University August 2019 🔗[MA Thesis abstract](https://as.nyu.edu/content/dam/nyu-as/anthropology/documents/Dorton%20abstract.pdf) 🔗[Blog Post](https://ruthdorton.com/blog/f/finding-significance-in-my-master%E2%80%99s-thesis)
   - Certificate in Data Analytics from Columbia Engineering July 2021
 - 💬 Introduction:
   - Both of my degrees were research-focused and completed in excel using pivot tables and the data analysis add-on. 
