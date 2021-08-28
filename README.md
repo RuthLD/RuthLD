@@ -6,8 +6,6 @@
 - 💬 Introduction:
   - Both of my degrees were research-focused and completed in excel using pivot tables and the data analysis add-on. 
   - I am prepared to write SQL commands, use Python-based scripts, and create in-depth data visualizations from CSV files and APIs.  
-  - In my past projects, I have evaluated data to identify trends over the calendar year and how those trends can plan for maximum returns. 
-  - To enhance the written report I created at the end of the analysis, I created charts using Matplotlib, including pie charts representing the total percentage by each category present in the data.
 - 📬 Contact Me: dortonruth@gmail.com
 - 💼 [Linkedin](https://www.linkedin.com/in/ruth-l-dorton/)
 - 💡 [Portfolio Website](https://ruthdorton.com/portfolio)
