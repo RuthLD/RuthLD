@@ -9,4 +9,3 @@
 - 📬 Contact Me: dortonruth@gmail.com
 - 💼 [Linkedin](https://www.linkedin.com/in/ruth-l-dorton/)
 - 💡 [Portfolio Website](https://ruthdorton.com/portfolio)
-- 📊 [Tableau Profile](https://public.tableau.com/profile/ruth.dorton#!/?newProfile=&activeTab=0)
