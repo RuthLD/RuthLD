@@ -6,6 +6,5 @@
 - 💬 Introduction:
   - Both of my degrees were research-focused and completed in excel using pivot tables and the data analysis add-on. 
   - I am prepared to write SQL commands, use Python-based scripts, and create in-depth data visualizations from CSV files and APIs.  
-- 📬 Contact Me: dortonruth@gmail.com
 - 💼 [Linkedin](https://www.linkedin.com/in/ruth-l-dorton/)
 - 💡 [Portfolio Website](https://ruthdorton.com/portfolio)
